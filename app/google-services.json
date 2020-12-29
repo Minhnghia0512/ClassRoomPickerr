@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "106530520617",
+    "project_id": "roombooking-1d155",
+    "storage_bucket": "roombooking-1d155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106530520617:android:321fd4db7f3e6aaf322638",
+        "android_client_info": {
+          "package_name": "com.example.classroompickerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106530520617-54odnt3lk4280ql8s895d3l4dtnm19dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70rvuSHz9lVoYmZ9_H8xys80TVzbXpWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106530520617-54odnt3lk4280ql8s895d3l4dtnm19dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106530520617:android:1c8e216d2ff3031b322638",
+        "android_client_info": {
+          "package_name": "com.test.roombooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106530520617-54odnt3lk4280ql8s895d3l4dtnm19dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70rvuSHz9lVoYmZ9_H8xys80TVzbXpWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106530520617-54odnt3lk4280ql8s895d3l4dtnm19dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
